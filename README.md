@@ -1,3 +1,7 @@
 # ADI-2324
 
-teste
+## Group:
+- @NopeGuy
+- @SenseiBott
+- @Gnomo03
+- @Bernazad
